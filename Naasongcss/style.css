@@ -1,0 +1,59 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    
+}
+* {
+    margin: 0;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.head{
+    line-height: 1.4;
+    /* border: 1px solid black; */
+    width:807px;
+    height: 800px;
+    margin: 6px auto;
+    text-align: center;
+}
+.Search-bar{
+    width: 650px;
+    height: 50px;
+    font-size: 16px;
+    padding: 13px;
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+.web-name{
+    padding-top: 40px;
+}
+.material-symbols-outlined{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 130px;
+    margin-left: -5px;
+    padding-top: 7px;
+    background-color: rgb(51, 51, 51);
+}
+.main-name{
+    font-style: roboto;
+}
+.sub-name{
+    font-style: Outfit;
+    padding-bottom: 40px;
+}
+.table{
+    border: 1px solid black;
+    background-color: rgb(34, 34, 34);
+}
+.photo-text{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 18px;
+    color: white;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
