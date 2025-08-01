@@ -9,12 +9,22 @@ html, body{
     box-sizing: border-box;
 }
 .head{
+
     line-height: 1.4;
     /* border: 1px solid black; */
     width:807px;
     height: 800px;
     margin: 6px auto;
     text-align: center;
+}
+.login{
+    padding: 15px 30px;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    border: none;
+    font-size: medium;
+    color: darkcyan;
 }
 .Search-bar{
     width: 650px;

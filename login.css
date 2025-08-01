@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 3px;
+    box-sizing: border-box;
+
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    
+}
+img{
+    height: 100px;
+    
+}
+.main{
+    text-align: center;
+    margin: 200px auto;
+    width: 400px;
+    /* padding: 50px 20px; */
+    line-height: 1.8;
+    /* border: 1px solid grey; */
+}
+.input{
+    height: 50px;
+    width: 320px;
+    padding: 10px 30px 10px 5px;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    margin-right: 20px;
+    margin-bottom: 8px;
+    font-size: small;
+    
+}
+.submit{
+    padding: 16px 60px;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+}
+.sec{
+    color: gray;
+    line-height: 1.5;
+}
+.singup{
+    font-size: 15px;
+    margin-bottom: 4px;
+    line-height: 1.9;
+}
+.terms{
+    font-size: 14px;
+}
+a{
+    color: gray;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
